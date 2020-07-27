@@ -5,6 +5,6 @@
 
 ## Please Have a look at the Working of the Project:
 
-![trimmed](https://user-images.githubusercontent.com/63406916/88526650-d1276080-d019-11ea-8948-6c5667bfc1c3.gif)
+![2020-07-27-14-33-32](https://user-images.githubusercontent.com/63406916/88527210-9a057f00-d01a-11ea-9c43-3b519eb86e67.gif)
 
 ## Thank-you!
